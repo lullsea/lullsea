@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lullsea
 - 👀 I’m interested in everything involving tech
-- 🌱 I’m currently learning shaders and AI modelling.
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on _hmu
 - 📫 How to reach me lullseapoint@gmail.com
 
